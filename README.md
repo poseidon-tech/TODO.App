@@ -1,6 +1,6 @@
 # Simple React Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple react todo app,  you can add, edit and delete todo 
 
 ## Available Scripts
 
